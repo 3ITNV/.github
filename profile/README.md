@@ -30,6 +30,10 @@ Repositories are private by default and organised under five technology pillars.
 ### 🎧 Service Desk (`sd-`)
 - [ ] `sd-...`
 
+### 🖥️ Internal Tooling (`int-`)
+- [ ] `int-...`
+
+
 > Replace the placeholder lines above as repos get created, and tick the box once a repo is live and in regular use.
 
 ## How we work
