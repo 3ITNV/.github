@@ -2,7 +2,7 @@
 
 Internal tooling, automation and documentation for 3-IT — Networking, Service Desk tools, Microsoft 365, Intune, Entra ID, Azure and on-premises infrastructure across our managed customer tenants.
 
-Repositories are private by default and organised under four technology pillars. This page is a living index — update it whenever a repo is added, renamed or archived.
+Repositories are private by default and organised under five technology pillars. This page is a living index — update it whenever a repo is added, renamed or archived.
 
 ## Naming convention
 
@@ -14,6 +14,7 @@ Repositories are private by default and organised under four technology pillars.
 | Modern Workplace | `mw-` | `Modern-Workplace` |
 | Infrastructure | `infra-` | `Infrastructure` |
 | Service Desk | `sd-` | `Service-Desk` |
+| Internal Tooling | `int-` | `Internal-Tooling` |
 
 ## Repositories
 
