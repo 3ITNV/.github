@@ -21,7 +21,7 @@ Repositories are private by default and organised under four technology pillars.
 - [ ] `net-...`
 
 ### 💻 Modern Workplace (`mw-`)
-- [x] [`mw-m365-reporting`](https://github.com/3ITNV/mw-M365-reporting) — Entra/Intune/EXO health & anomaly reporting suite, orchestrated via Azure Automation
+- [x] [`mw-m365-reporting`](https://github.com/3ITNV/mw-M365-reporting) — Entra/Intune health & anomaly reporting suite, orchestrated via Azure Automation. Used to fill up m365dashboard.3-it.be
 
 ### 🖥️ Infrastructure (`infra-`)
 - [ ] `infra-...`
